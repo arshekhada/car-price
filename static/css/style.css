@@ -1,0 +1,22 @@
+.{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+.bg-dark{
+	background-color: #38cf1a;
+}
+.box{
+    width: auto;
+    height: 100px;
+    background: linear-gradient(to right,#093028, #237a57);
+    
+}
+
+.mt-50{
+	margin-top: 25px
+    ;
+}
+#canvas{
+    border: 2px solid black;
+}
